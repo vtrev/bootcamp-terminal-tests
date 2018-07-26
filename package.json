@@ -1,0 +1,24 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "testing the bootcamp functions on terminal using node",
+  "dependencies":"mocha,chai",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtrev/bootcamp-terminal-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtrev/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/vtrev/bootcamp-terminal-tests#readme"
+}
