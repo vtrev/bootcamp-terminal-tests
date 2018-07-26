@@ -2,7 +2,7 @@
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
   "description": "testing the bootcamp functions on terminal using node",
-  "dependencies": "mocha",
+  "dependencies": {},
   "main": "",
   "directories": {
     "test": "test"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/vtrev/bootcamp-terminal-tests#readme",
   "devDependencies": {
+    "chai": "^4.1.2",
     "mocha": "^5.2.0"
   }
 }
